@@ -1,0 +1,5 @@
+
+7월 26, 2021 18:13:33.64 NEW SESSION
+7월 26, 2021 18:13:33.64 [10624:14340:0726/181333.642:ERROR:device_event_log_impl.cc(214)] [18:13:33.642] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 26, 2021 18:13:33.66 [10624:14340:0726/181333.643:ERROR:device_event_log_impl.cc(214)] [18:13:33.643] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 26, 2021 18:13:34.03 [10624:14340:0726/181334.036:ERROR:device_event_log_impl.cc(214)] [18:13:34.036] FIDO: webauthn_api.cc:53 Windows WebAuthn API failed to load
